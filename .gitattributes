@@ -1,0 +1,5 @@
+*.tga filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Assets/Font/simhei.asset filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.ptc.vuforia.engine@dfb1f9d9e00c/Vuforia/Plugins/iOS/Vuforia.framework/Vuforia filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/iOS/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text

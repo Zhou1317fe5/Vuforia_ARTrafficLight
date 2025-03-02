@@ -1,0 +1,27 @@
+# 忽略 .vs 文件夹 (Visual Studio 相关文件)
+.vs/
+
+#忽略.vsconfig文件
+.vsconfig
+
+# 忽略 Logs 文件夹
+Logs/
+
+#忽略obj文件夹
+obj/
+
+# 忽略 Packages 文件夹
+Packages/
+
+#忽略 UserSettings文件夹
+UserSettings/
+
+# 忽略特定后缀名的文件 (例如，所有 .sln 文件)
+*.sln
+*.csproj
+
+# 可以根据需要添加其他要忽略的文件或文件夹
+# 例如：
+# *.exe  # 忽略所有 .exe 文件
+# bin/   # 忽略 bin 文件夹
+# obj/   # 忽略 obj 文件夹 (如果存在)

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "dfb1f9d9e00c",
+        "mtime": 1698915031230,
+        "size": 178187326,
+        "localPath": "C:\\Users\\Admin\\Desktop\\com.ptc.vuforia.engine-9.6.3.tgz"
+      }
+    }
+  }
+}

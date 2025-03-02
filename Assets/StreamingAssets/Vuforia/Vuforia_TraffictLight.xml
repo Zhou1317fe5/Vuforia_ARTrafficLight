@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="TraffictLight210" size="210.000000 131.250000" />
+    <ImageTarget name="TraffictLight190" size="190.000000 118.750000" />
+    <ImageTarget name="TraffictLight180" size="180.000000 112.500000" />
+    <ImageTarget name="TraffictLight200" size="200.000000 125.000000" />
+  </Tracking>
+</QCARConfig>
